@@ -31,6 +31,12 @@ python3 -m spacy download pt_core_news_sm
 
 To start extraction process provide the following parameters, languages: English: en, Portuguese: pt:
 
+Run the sample file for English
 ```
-python preprocess_documents.py -i input_dir -o output_dir -l en
+python preprocess_documents.py -i en_input_dir -o en_output_dir -l en
+```
+
+Run the sample file for Portuguese
+```
+python preprocess_documents.py -i pt_input_dir -o pt_output_dir -l pt
 ```

@@ -1,0 +1,99 @@
+{
+    "6101815903": {
+        "info": {
+            "authors": [
+                {
+                    "isAgency": false,
+                    "name": "Gabrielle Olya",
+                    "type": "author",
+                    "uri": "gabrielle_olya@gobankingrates.com"
+                }
+            ],
+            "body": "Numa carta endereçada, esta terça-feira (2 de fevereiro), ao ministério da Justiça, em Lisboa, o presidente da Comissão das Liberdades Cívicas, da Justiça e dos Assuntos Internos (LIBE) do Parlamento Europeu, Juan Fernando López Aguilar apela ao envio de toda a documentação, relativa ao método de escolha e nomeação do Procurador Europeu.",
+            "categories": [
+                {
+                    "label": "news/Sports",
+                    "uri": "news/Sports",
+                    "wgt": 99
+                },
+                {
+                    "label": "dmoz/Sports/Disabled/Mentally Challenged",
+                    "uri": "dmoz/Sports/Disabled/Mentally_Challenged",
+                    "wgt": 40
+                },
+                {
+                    "label": "dmoz/Shopping/Sports/Olympics",
+                    "uri": "dmoz/Shopping/Sports/Olympics",
+                    "wgt": 50
+                },
+                {
+                    "label": "dmoz/Sports/Track and Field/Athletes",
+                    "uri": "dmoz/Sports/Track_and_Field/Athletes",
+                    "wgt": 30
+                }
+            ],
+            "dataType": "news",
+            "date": "2020-06-11",
+            "dateTime": "2020-06-11T19:27:00Z",
+            "dateTimePub": "2020-06-11T18:47:00Z",
+            "eventUri": "eng-5848175",
+            "image": "https://cdn.gobankingrates.com/wp-content/uploads/2020/06/1936-1964-1984-Olympic-Posters-1024x576.jpg",
+            "isDuplicate": false,
+            "lang": "eng",
+            "links": [
+                "https://www.gobankingrates.com/saving-money/entertainment/postponed-olympics-add-billions-cost-heres-things-affected/",
+                "https://www.gobankingrates.com/saving-money/entertainment/cost-super-bowl-tickets-year-you-were-born/",
+                "https://www.gobankingrates.com/saving-money/shopping/what-100-was-worth-year-you-were-born/",
+                "https://www.gobankingrates.com/saving-money/entertainment/how-much-disney-world-cost-year-born/",
+                "https://www.gobankingrates.com/saving-money/food/price-coffee-year-were-born/",
+                "https://www.gobankingrates.com/saving-money/car/heres-much-car-today-would-cost-year-were-born/",
+                "https://www.gobankingrates.com/saving-money/health/cost-health-insurance-year-you-were-born/",
+                "https://www.gobankingrates.com/saving-money/budgeting/ways-make-weeks-paycheck-further/",
+                "https://www.gobankingrates.com/money/financial-planning/how-much-physical-cash-need-hand-case-national-emergency/",
+                "https://www.gobankingrates.com/money/side-gigs/ways-make-money-without-9-to-5/",
+                "https://www.gobankingrates.com/investing/strategy/smart-investments-try-now/",
+                "https://www.gobankingrates.com/saving-money/entertainment/postponed-olympics-add-billions-cost-heres-things-affected/",
+                "https://www.gobankingrates.com/saving-money/entertainment/cost-super-bowl-tickets-year-you-were-born/",
+                "https://www.gobankingrates.com/saving-money/shopping/what-100-was-worth-year-you-were-born/",
+                "https://www.gobankingrates.com/saving-money/entertainment/how-much-disney-world-cost-year-born/",
+                "https://www.gobankingrates.com/saving-money/food/price-coffee-year-were-born/",
+                "https://www.gobankingrates.com/saving-money/car/heres-much-car-today-would-cost-year-were-born/",
+                "https://www.gobankingrates.com/saving-money/health/cost-health-insurance-year-you-were-born/",
+                "https://www.gobankingrates.com/saving-money/budgeting/ways-make-weeks-paycheck-further/",
+                "https://www.gobankingrates.com/money/financial-planning/how-much-physical-cash-need-hand-case-national-emergency/"
+            ],
+            "location": null,
+            "sentiment": 0.03529411764705892,
+            "shares": {},
+            "sim": 0.4862745106220245,
+            "source": {
+                "dataType": "news",
+                "location": {
+                    "country": {
+                        "label": {
+                            "eng": "United States"
+                        },
+                        "type": "country"
+                    },
+                    "label": {
+                        "eng": "Los Angeles"
+                    },
+                    "type": "place"
+                },
+                "locationValidated": true,
+                "ranking": {
+                    "alexaCountryRank": 8410,
+                    "alexaGlobalRank": 32394,
+                    "importanceRank": 38
+                },
+                "title": "GBR",
+                "uri": "gobankingrates.com"
+            },
+            "time": "19:27:00",
+            "title": "The Cost of the Olympics in the Year You Were Born",
+            "uri": "6101815903",
+            "url": "https://www.gobankingrates.com/saving-money/entertainment/cost-olympics-year-were-born/",
+            "videos": []
+        }
+    }
+}

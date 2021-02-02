@@ -92,9 +92,9 @@ def process(input_dir, output_dir, language):
             break
 
 def main(argv):
-   input_dir = 'input_dir'
-   output_dir = 'output_dir'
-   language = 'en'
+   input_dir = ''
+   output_dir = ''
+   language = ''
    try:
        opts, args = getopt.getopt(argv,"hi:o:l:",["i_dir=","o_dir=", "lang="])
    except getopt.GetoptError:
@@ -115,7 +115,10 @@ def main(argv):
    print('Output dir: ', output_dir)
    print('Language: ', language)
 
-   process(input_dir, output_dir, language)
+   if input_dir =='' or output_dir =='' or language == '':
+       print('preprocess_documents.py -i <input_dir> -o <output_dir> -l <language>')
+   else:
+       process(input_dir, output_dir, language)
 
 
 if __name__ == "__main__":
